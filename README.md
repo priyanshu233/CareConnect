@@ -1,4 +1,4 @@
-# Healthcare-app
+# CareConnect-app
 
 # Overview
 
